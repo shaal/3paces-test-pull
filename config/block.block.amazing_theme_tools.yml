@@ -1,4 +1,4 @@
-uuid: 2582d786-4d30-43be-92f7-db4d35fa36d5
+uuid: 135801f6-e3a2-4530-84a0-40cbbfce47c9
 langcode: en
 status: false
 dependencies:
@@ -7,11 +7,11 @@ dependencies:
   module:
     - system
   theme:
-    - bartik
+    - amazing_theme
 _core:
   default_config_hash: NeHSoqm4XFqA7_0bDmR429ZZQt3LRbZMNRJTMsFyOfI
-id: bartik_tools
-theme: bartik
+id: amazing_theme_tools
+theme: amazing_theme
 region: sidebar_first
 weight: -6
 provider: null

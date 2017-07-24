@@ -1,15 +1,15 @@
-uuid: 0cc212ae-72a0-4141-aa23-4711872185ca
+uuid: ae0fc0c8-a8b4-466d-8e46-1460aa335ef0
 langcode: en
 status: true
 dependencies:
   module:
     - system
   theme:
-    - bartik
+    - amazing_theme
 _core:
   default_config_hash: NDwadleLD3YVSbDUaakxyYZyINYtkFtOVGShfq4kWy8
-id: bartik_branding
-theme: bartik
+id: amazing_theme_branding
+theme: amazing_theme
 region: header
 weight: -6
 provider: null
